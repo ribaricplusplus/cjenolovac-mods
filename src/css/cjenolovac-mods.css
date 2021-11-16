@@ -1,0 +1,13 @@
+.woocommerce-LoopProduct-link.woocommerce-loop-product__link {
+	display: flex;
+	flex-wrap: nowrap;
+	column-gap: 12px;
+	align-items: center;
+	text-align: start !important;
+	justify-content: space-between;
+}
+
+.woocommerce-loop-product__link > .woocommerce-loop-product__vendor {
+	margin: 0 !important;
+	width: 2.5em !important;
+}
